@@ -1,0 +1,3 @@
+/* *** SQL-Query-CH03-03 *** */
+SELECT ProjectName, Department, MaxHours
+FROM PROJECT;
